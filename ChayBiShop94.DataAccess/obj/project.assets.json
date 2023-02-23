@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ChayBiShop94\\ChayBiShop94\\ChayBiShop94.csproj",
-      "projectName": "ChayBiShop94",
-      "projectPath": "D:\\ChayBiShop94\\ChayBiShop94\\ChayBiShop94.csproj",
+      "projectUniqueName": "D:\\ChayBiShop94\\ChayBiShop94.DataAccess\\ChayBiShop94.DataAccess.csproj",
+      "projectName": "ChayBiShop94.DataAccess",
+      "projectPath": "D:\\ChayBiShop94\\ChayBiShop94.DataAccess\\ChayBiShop94.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Thanh Long\\.nuget\\packages\\",
-      "outputPath": "D:\\ChayBiShop94\\ChayBiShop94\\obj\\",
+      "outputPath": "D:\\ChayBiShop94\\ChayBiShop94.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,9 +62,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
