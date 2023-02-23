@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ChayBiShop94\\AdminChayBiShop94\\AdminChayBiShop94.csproj",
-      "projectName": "AdminChayBiShop94",
-      "projectPath": "D:\\ChayBiShop94\\AdminChayBiShop94\\AdminChayBiShop94.csproj",
+      "projectUniqueName": "D:\\ChayBiShop94\\AdminChayBiShop94\\ADMIN.csproj",
+      "projectName": "ADMIN",
+      "projectPath": "D:\\ChayBiShop94\\AdminChayBiShop94\\ADMIN.csproj",
       "packagesPath": "C:\\Users\\Thanh Long\\.nuget\\packages\\",
       "outputPath": "D:\\ChayBiShop94\\AdminChayBiShop94\\obj\\",
       "projectStyle": "PackageReference",
