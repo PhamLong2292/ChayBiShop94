@@ -1,8 +1,8 @@
-﻿using ChayBiShop94.Models;
+﻿using ChayBiShop94.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace ChayBiShop94.Controllers
+namespace ChayBiShop94.Web.Controllers
 {
     public class HomeController : Controller
     {

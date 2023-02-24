@@ -1,4 +1,4 @@
-namespace ChayBiShop94.Models
+namespace ChayBiShop94.Web.Models
 {
     public class ErrorViewModel
     {
