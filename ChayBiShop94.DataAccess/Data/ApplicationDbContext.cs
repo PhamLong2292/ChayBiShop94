@@ -18,13 +18,15 @@ namespace ChayBiShop94.DataAccess
         { 
 
         }
-        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
-        public DbSet<Cart> Carts { get; set; }
-        public DbSet<Category> Categories { get; set; }
-        public DbSet<Coupon> Coupons { get; set; }
-        public DbSet<Item> Items { get; set; }
-        public DbSet<OrderDetails> OrderDetails { get; set; }
-        public DbSet<OrderHeader> OrderHeaders { get; set; }
-        public DbSet<SubCategory> SubCategories { get; set; }
+        public virtual DbSet<Unit> Units { get; set; }
+        public virtual DbSet<Brand> Brands { get; set; }
+        public virtual DbSet<Category> Categories { get; set; }
+        public virtual DbSet<ProductGroup> ProductGroups { get; set; }
+        public virtual DbSet<ProductProfile> ProductProfiles { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
+        public virtual DbSet<Supplier> Suppliers { get; set; }
+        public virtual DbSet<Currency> Currencies { get; set; }
+        public virtual DbSet<PoHeader> PoHeaders { get; set; }
+        public virtual DbSet<PoDetail> PoDetails { get; set; }
     }
 }

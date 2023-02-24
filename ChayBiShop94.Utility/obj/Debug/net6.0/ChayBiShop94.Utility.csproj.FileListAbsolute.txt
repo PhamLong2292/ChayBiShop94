@@ -1,0 +1,12 @@
+D:\ChayBiShop94\ChayBiShop94.Utility\bin\Debug\net6.0\ChayBiShop94.Utility.deps.json
+D:\ChayBiShop94\ChayBiShop94.Utility\bin\Debug\net6.0\ChayBiShop94.Utility.dll
+D:\ChayBiShop94\ChayBiShop94.Utility\bin\Debug\net6.0\ChayBiShop94.Utility.pdb
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.csproj.AssemblyReference.cache
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.AssemblyInfoInputs.cache
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.AssemblyInfo.cs
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.csproj.CoreCompileInputs.cache
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.dll
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\refint\ChayBiShop94.Utility.dll
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ChayBiShop94.Utility.pdb
+D:\ChayBiShop94\ChayBiShop94.Utility\obj\Debug\net6.0\ref\ChayBiShop94.Utility.dll

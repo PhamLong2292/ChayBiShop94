@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
@@ -11,8 +10,15 @@ namespace ChayBiShop94.Models
     public class Category
     {
         [Key]
-        public int Id { get; set; }    
+        public int Id { get; set; }
+
         [Required]
-        public string Title { get; set; }
+        [StringLength(25)]
+        public string Name { get; set; }
+
+        [Required]
+        [StringLength(75)]
+        public string Description { get; set; }
+
     }
 }
