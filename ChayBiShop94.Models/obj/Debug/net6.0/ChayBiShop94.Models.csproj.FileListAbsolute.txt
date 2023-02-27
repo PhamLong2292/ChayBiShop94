@@ -1,0 +1,12 @@
+D:\ChayBiShop94\ChayBiShop94.Models\bin\Debug\net6.0\ChayBiShop94.Models.deps.json
+D:\ChayBiShop94\ChayBiShop94.Models\bin\Debug\net6.0\ChayBiShop94.Models.dll
+D:\ChayBiShop94\ChayBiShop94.Models\bin\Debug\net6.0\ChayBiShop94.Models.pdb
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.csproj.AssemblyReference.cache
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.AssemblyInfoInputs.cache
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.AssemblyInfo.cs
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.csproj.CoreCompileInputs.cache
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.dll
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\refint\ChayBiShop94.Models.dll
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ChayBiShop94.Models.pdb
+D:\ChayBiShop94\ChayBiShop94.Models\obj\Debug\net6.0\ref\ChayBiShop94.Models.dll

@@ -1,0 +1,15 @@
+D:\ChayBiShop94\ChayBiShop94.DataAccess\bin\Debug\net6.0\ChayBiShop94.DataAccess.deps.json
+D:\ChayBiShop94\ChayBiShop94.DataAccess\bin\Debug\net6.0\ChayBiShop94.DataAccess.dll
+D:\ChayBiShop94\ChayBiShop94.DataAccess\bin\Debug\net6.0\ChayBiShop94.DataAccess.pdb
+D:\ChayBiShop94\ChayBiShop94.DataAccess\bin\Debug\net6.0\ChayBiShop94.Models.dll
+D:\ChayBiShop94\ChayBiShop94.DataAccess\bin\Debug\net6.0\ChayBiShop94.Models.pdb
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.csproj.AssemblyReference.cache
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.AssemblyInfoInputs.cache
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.AssemblyInfo.cs
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.csproj.CoreCompileInputs.cache
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.csproj.CopyComplete
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.dll
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\refint\ChayBiShop94.DataAccess.dll
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ChayBiShop94.DataAccess.pdb
+D:\ChayBiShop94\ChayBiShop94.DataAccess\obj\Debug\net6.0\ref\ChayBiShop94.DataAccess.dll
