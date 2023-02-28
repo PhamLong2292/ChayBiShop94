@@ -11,7 +11,7 @@ namespace ChayBiShop94.Models
     public class City
     {
         [Key]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         [Required]
         [MaxLength(3)]
@@ -22,7 +22,7 @@ namespace ChayBiShop94.Models
         public string Name { get; set; }
 
         [ForeignKey("Country")]
-        public int CountryId { get; set; }
+        public Guid CountryId { get; set; }
 
         public virtual Country Country { get; set; }
     }

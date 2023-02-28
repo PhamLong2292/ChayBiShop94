@@ -33,20 +33,21 @@ namespace ChayBiShop94.Web.Controllers
         [HttpPost]
         public IActionResult Create(Country country)
         {
+            country.Id = GuidUtil.GenerateComb();         
             _context.Add(country);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
 
         [HttpGet]
-        public IActionResult Details(int Id)
+        public IActionResult Details(Guid Id)
         {
             Country country = GetCountry(Id);
             return View(country);
         }
 
         [HttpGet]
-        public IActionResult Edit(int Id)
+        public IActionResult Edit(Guid Id)
         {
             Country country = GetCountry(Id);
             return View(country);
@@ -62,7 +63,7 @@ namespace ChayBiShop94.Web.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private Country GetCountry(int id)
+        private Country GetCountry(Guid id)
         {
             Country country;
             country = _context.Countries
@@ -72,7 +73,7 @@ namespace ChayBiShop94.Web.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delete(int Id)
+        public IActionResult Delete(Guid Id)
         {
             Country country = GetCountry(Id);
             return View(country);

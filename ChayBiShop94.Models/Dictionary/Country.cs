@@ -10,7 +10,7 @@ namespace ChayBiShop94.Models
     public class Country
     {
         [Key]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         [Required]
         [MaxLength(3)]
@@ -21,7 +21,7 @@ namespace ChayBiShop94.Models
         public string Name { get; set; }
 
         [MaxLength(75)]
-        public string CurrencyName { get; set; } = "";
+        public string CurrencyName { get; set; }
 
     }
 }
