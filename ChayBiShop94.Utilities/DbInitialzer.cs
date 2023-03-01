@@ -40,7 +40,7 @@ namespace ChayBiShop94.Utilities
             {
                 _roleManager.CreateAsync(new IdentityRole(WebSiteRoles.WebSite_Admin)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(WebSiteRoles.WebSite_Patient)).GetAwaiter().GetResult();
-                _roleManager.CreateAsync(new IdentityRole(WebSiteRoles.WebSite_Doctor)).GetAwaiter().GetResult();
+                _roleManager.CreateAsync(new IdentityRole(WebSiteRoles.WebSite_Staff)).GetAwaiter().GetResult();
 
                 _userManager.CreateAsync(new AppUser
                 {

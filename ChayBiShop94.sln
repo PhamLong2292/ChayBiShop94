@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Web", "ChayBiShop94.Web\ChayBiShop94.Web.csproj", "{263749CD-8DE0-427E-950C-08195B683D7D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Repositories", "ChayBíhop94.Repositories\ChayBiShop94.Repositories.csproj", "{391BD9D2-BDFF-47E5-AD67-E24CE4F0AF2E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Models", "ChayBiShop94.Models\ChayBiShop94.Models.csproj", "{75E074E7-0C11-465E-8DCD-A7BA191B4749}"
@@ -13,16 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Utilities", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Services", "ChayBiShop94.Services\ChayBiShop94.Services.csproj", "{F37FA915-1B1C-4059-96B1-2234CAFD6805}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Web", "ChayBiShop94.Web\ChayBiShop94.Web.csproj", "{462D99B1-F4BF-42C7-937E-A744B79B9109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{263749CD-8DE0-427E-950C-08195B683D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{263749CD-8DE0-427E-950C-08195B683D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{263749CD-8DE0-427E-950C-08195B683D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{263749CD-8DE0-427E-950C-08195B683D7D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{391BD9D2-BDFF-47E5-AD67-E24CE4F0AF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{391BD9D2-BDFF-47E5-AD67-E24CE4F0AF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{391BD9D2-BDFF-47E5-AD67-E24CE4F0AF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{F37FA915-1B1C-4059-96B1-2234CAFD6805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37FA915-1B1C-4059-96B1-2234CAFD6805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37FA915-1B1C-4059-96B1-2234CAFD6805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462D99B1-F4BF-42C7-937E-A744B79B9109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462D99B1-F4BF-42C7-937E-A744B79B9109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462D99B1-F4BF-42C7-937E-A744B79B9109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462D99B1-F4BF-42C7-937E-A744B79B9109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
