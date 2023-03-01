@@ -1,0 +1,17 @@
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Utilities.deps.json
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Utilities.dll
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Utilities.pdb
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Models.dll
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Repositories.dll
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Models.pdb
+D:\ChayBiShop94\ChayBiShop94.Utilities\bin\Debug\net7.0\ChayBiShop94.Repositories.pdb
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.csproj.AssemblyReference.cache
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.AssemblyInfoInputs.cache
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.AssemblyInfo.cs
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.csproj.CoreCompileInputs.cache
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.csproj.CopyComplete
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.dll
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\refint\ChayBiShop94.Utilities.dll
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ChayBiShop94.Utilities.pdb
+D:\ChayBiShop94\ChayBiShop94.Utilities\obj\Debug\net7.0\ref\ChayBiShop94.Utilities.dll
