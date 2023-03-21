@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChayBiShop94.Web.props" />
+</Project>
