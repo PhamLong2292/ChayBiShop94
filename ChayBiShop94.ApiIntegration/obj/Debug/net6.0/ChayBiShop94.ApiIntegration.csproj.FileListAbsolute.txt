@@ -1,0 +1,12 @@
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\bin\Debug\net6.0\ChayBiShop94.ApiIntegration.deps.json
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\bin\Debug\net6.0\ChayBiShop94.ApiIntegration.dll
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\bin\Debug\net6.0\ChayBiShop94.ApiIntegration.pdb
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.csproj.AssemblyReference.cache
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.AssemblyInfoInputs.cache
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.AssemblyInfo.cs
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.csproj.CoreCompileInputs.cache
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.dll
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\refint\ChayBiShop94.ApiIntegration.dll
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ChayBiShop94.ApiIntegration.pdb
+D:\ChayBiShop94\ChayBiShop94.ApiIntegration\obj\Debug\net6.0\ref\ChayBiShop94.ApiIntegration.dll

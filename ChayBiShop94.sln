@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaybiShop94.Data", "ChaybiShop94.Data\ChaybiShop94.Data.csproj", "{4109F5B6-1FD7-470A-A7BF-A4DC70CED98F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChaybiShop94.Data", "ChaybiShop94.Data\ChaybiShop94.Data.csproj", "{4109F5B6-1FD7-470A-A7BF-A4DC70CED98F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Application", "ChayBiShop94.Application\ChayBiShop94.Application.csproj", "{95F0FA72-86A6-45EC-891F-6ABFE8B1C8ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChayBiShop94.Application", "ChayBiShop94.Application\ChayBiShop94.Application.csproj", "{95F0FA72-86A6-45EC-891F-6ABFE8B1C8ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.Utilities", "ChayBiShop94.Utilities\ChayBiShop94.Utilities.csproj", "{B7BBCBDB-2315-45D0-B77E-ACBBFDFB09DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChayBiShop94.Utilities", "ChayBiShop94.Utilities\ChayBiShop94.Utilities.csproj", "{B7BBCBDB-2315-45D0-B77E-ACBBFDFB09DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.ViewModels", "ChayBiShop94.ViewModels\ChayBiShop94.ViewModels.csproj", "{1176828F-9C16-4783-B238-7CEDE7FCDCDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChayBiShop94.ViewModels", "ChayBiShop94.ViewModels\ChayBiShop94.ViewModels.csproj", "{1176828F-9C16-4783-B238-7CEDE7FCDCDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChayBiShop94.ApiIntegration", "ChayBiShop94.ApiIntegration\ChayBiShop94.ApiIntegration.csproj", "{D33D81DC-AD2E-42EE-8E2D-CDC82CD18A05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChayBiShop94.ApiIntegration", "ChayBiShop94.ApiIntegration\ChayBiShop94.ApiIntegration.csproj", "{D33D81DC-AD2E-42EE-8E2D-CDC82CD18A05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosts", "Hosts", "{FD7EB6E5-234B-47DA-A2C7-43ED70F256B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminApp", "AdminApp\AdminApp.csproj", "{502A1C97-F23C-4FA7-B0FB-4F33CD5415C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendApi", "BackendApi\BackendApi.csproj", "{7F1C76C0-0168-4ED6-883B-E1C22AA23EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{A6A07FBA-66D2-4C25-AD94-5A3F75041187}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +47,26 @@ Global
 		{D33D81DC-AD2E-42EE-8E2D-CDC82CD18A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D33D81DC-AD2E-42EE-8E2D-CDC82CD18A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D33D81DC-AD2E-42EE-8E2D-CDC82CD18A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502A1C97-F23C-4FA7-B0FB-4F33CD5415C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502A1C97-F23C-4FA7-B0FB-4F33CD5415C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502A1C97-F23C-4FA7-B0FB-4F33CD5415C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502A1C97-F23C-4FA7-B0FB-4F33CD5415C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1C76C0-0168-4ED6-883B-E1C22AA23EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1C76C0-0168-4ED6-883B-E1C22AA23EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1C76C0-0168-4ED6-883B-E1C22AA23EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1C76C0-0168-4ED6-883B-E1C22AA23EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A07FBA-66D2-4C25-AD94-5A3F75041187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A07FBA-66D2-4C25-AD94-5A3F75041187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A07FBA-66D2-4C25-AD94-5A3F75041187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A07FBA-66D2-4C25-AD94-5A3F75041187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{502A1C97-F23C-4FA7-B0FB-4F33CD5415C5} = {FD7EB6E5-234B-47DA-A2C7-43ED70F256B4}
+		{7F1C76C0-0168-4ED6-883B-E1C22AA23EB8} = {FD7EB6E5-234B-47DA-A2C7-43ED70F256B4}
+		{A6A07FBA-66D2-4C25-AD94-5A3F75041187} = {FD7EB6E5-234B-47DA-A2C7-43ED70F256B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {214D0378-2019-46D1-A8C7-3DEA90D0B64C}
