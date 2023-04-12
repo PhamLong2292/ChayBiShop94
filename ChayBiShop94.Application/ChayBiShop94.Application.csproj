@@ -1,9 +1,22 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.15.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChaybiShop94.Data\ChaybiShop94.Data.csproj" />
+    <ProjectReference Include="..\ChayBiShop94.Utilities\ChayBiShop94.Utilities.csproj" />
+    <ProjectReference Include="..\ChayBiShop94.ViewModels\ChayBiShop94.ViewModels.csproj" />
+  </ItemGroup>
 
 </Project>

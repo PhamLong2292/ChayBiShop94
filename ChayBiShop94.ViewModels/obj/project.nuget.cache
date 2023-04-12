@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KsAtj0vfeUdPxDVOWaFJJNLgdcXEQ5GQ5+4gaZK4uwfeir7GGBitKvyZ6iyHcj3AEv/b7DpYQQ2vNbC7TOBSeA==",
+  "dgSpecHash": "BlhKnyPvEK17SLhacJYFv0keAdM3bv/42JZKS8H9CuZUfFiYkDhhgq+Gaa2khKbHlxgUwwpBe+TxI+5UIpQVMA==",
   "success": true,
   "projectFilePath": "D:\\ChayBiShop94\\ChayBiShop94.ViewModels\\ChayBiShop94.ViewModels.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -10,3 +10,10 @@ D:\ChayBiShop94\ChayBiShop94.Application\obj\Debug\net6.0\ChayBiShop94.Applicati
 D:\ChayBiShop94\ChayBiShop94.Application\obj\Debug\net6.0\refint\ChayBiShop94.Application.dll
 D:\ChayBiShop94\ChayBiShop94.Application\obj\Debug\net6.0\ChayBiShop94.Application.pdb
 D:\ChayBiShop94\ChayBiShop94.Application\obj\Debug\net6.0\ref\ChayBiShop94.Application.dll
+D:\ChayBiShop94\ChayBiShop94.Application\bin\Debug\net6.0\ChaybiShop94.Data.dll
+D:\ChayBiShop94\ChayBiShop94.Application\bin\Debug\net6.0\ChayBiShop94.Utilities.dll
+D:\ChayBiShop94\ChayBiShop94.Application\bin\Debug\net6.0\ChayBiShop94.ViewModels.dll
+D:\ChayBiShop94\ChayBiShop94.Application\bin\Debug\net6.0\ChaybiShop94.Data.pdb
+D:\ChayBiShop94\ChayBiShop94.Application\bin\Debug\net6.0\ChayBiShop94.Utilities.pdb
+D:\ChayBiShop94\ChayBiShop94.Application\bin\Debug\net6.0\ChayBiShop94.ViewModels.pdb
+D:\ChayBiShop94\ChayBiShop94.Application\obj\Debug\net6.0\ChayBiShop94.Application.csproj.CopyComplete

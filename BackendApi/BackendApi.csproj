@@ -7,7 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChayBiShop94.Application\ChayBiShop94.Application.csproj" />
+    <ProjectReference Include="..\ChaybiShop94.Data\ChaybiShop94.Data.csproj" />
+    <ProjectReference Include="..\ChayBiShop94.Utilities\ChayBiShop94.Utilities.csproj" />
+    <ProjectReference Include="..\ChayBiShop94.ViewModels\ChayBiShop94.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

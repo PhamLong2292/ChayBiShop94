@@ -81,7 +81,7 @@ namespace ChaybiShop94.Data.Migrations
                         new
                         {
                             Id = new Guid("8d04dce2-969a-435d-bba4-df3f325983dc"),
-                            ConcurrencyStamp = "e774ba42-18ea-485e-8b62-08a0c95f97a3",
+                            ConcurrencyStamp = "1ddc3777-12ae-4f2a-9439-1f8bdc456415",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -158,7 +158,7 @@ namespace ChaybiShop94.Data.Migrations
                         {
                             Id = new Guid("69bd714f-9576-45ba-b5b7-f00649be00de"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "f4df944a-e9fc-46f3-9a96-66cb76f5e881",
+                            ConcurrencyStamp = "02a09ead-4a0d-4d33-8d35-e77393f83aef",
                             Dob = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "tedu.international@gmail.com",
                             EmailConfirmed = true,
@@ -167,7 +167,7 @@ namespace ChaybiShop94.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "tedu.international@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEPA8rjECXe8GukM/MJDeDmmVUia6zi15c0E1vJgYiaeR2TIpStIeDrL7qc//UE1Lbw==",
+                            PasswordHash = "AQAAAAEAACcQAAAAELz/r5hT2DZ2psTK/4ux1UXKi0cFviXz/DIlCGQDTY6RB6eAS5+vSesKssqvrtlrPw==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -511,7 +511,7 @@ namespace ChaybiShop94.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2023, 4, 11, 17, 37, 16, 898, DateTimeKind.Local).AddTicks(3723),
+                            DateCreated = new DateTime(2023, 4, 12, 16, 49, 51, 723, DateTimeKind.Local).AddTicks(2551),
                             OriginalPrice = 100000m,
                             Price = 200000m,
                             Stock = 0,
