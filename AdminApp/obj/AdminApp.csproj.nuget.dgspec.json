@@ -33,6 +33,9 @@
               },
               "D:\\ChayBiShop94\\ChayBiShop94.Utilities\\ChayBiShop94.Utilities.csproj": {
                 "projectPath": "D:\\ChayBiShop94\\ChayBiShop94.Utilities\\ChayBiShop94.Utilities.csproj"
+              },
+              "D:\\ChayBiShop94\\ChayBiShop94.ViewModels\\ChayBiShop94.ViewModels.csproj": {
+                "projectPath": "D:\\ChayBiShop94\\ChayBiShop94.ViewModels\\ChayBiShop94.ViewModels.csproj"
               }
             }
           }
@@ -47,10 +50,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "FluentValidation": {
-              "target": "Package",
-              "version": "[11.5.2, )"
-            },
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
@@ -58,6 +57,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.IdentityModel.Logging": {
               "target": "Package",
@@ -274,13 +277,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "FluentValidation": {
+            "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[11.5.2, )"
+              "version": "[8.6.2, )"
             },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[5.0.12, )"
             }
           },
           "imports": [

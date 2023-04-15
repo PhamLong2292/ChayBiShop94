@@ -19,7 +19,7 @@ namespace ChaybiShop94.Data.Configurations
 
             builder.Property(x => x.Id).UseIdentityColumn();
 
-            builder.Property(x => x.ImagePath).HasMaxLength(200).IsRequired(true);
+            builder.Property(x => x.ImagePath).HasMaxLength(200).IsRequired(false);
 
             builder.Property(x => x.Caption).HasMaxLength(200);
 

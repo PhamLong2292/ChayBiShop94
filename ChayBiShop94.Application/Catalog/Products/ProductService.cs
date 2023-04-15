@@ -82,7 +82,10 @@ namespace ChayBiShop94.Application.Catalog.Products
                     {
                         Name = SystemConstants.ProductConstants.NA,
                         Description = SystemConstants.ProductConstants.NA,
+                        Details = SystemConstants.ProductConstants.NA,
                         SeoAlias = SystemConstants.ProductConstants.NA,
+                        SeoDescription = SystemConstants.ProductConstants.NA,
+                        SeoTitle = SystemConstants.ProductConstants.NA,
                         LanguageId = language.Id
                     });
                 }
@@ -140,10 +143,10 @@ namespace ChayBiShop94.Application.Catalog.Products
                         join pt in _context.ProductTranslations on p.Id equals pt.ProductId
                         join pic in _context.ProductInCategories on p.Id equals pic.ProductId into ppic
                         from pic in ppic.DefaultIfEmpty()
-                        join c in _context.Categories on pic.CategoryId equals c.Id into picc
-                        from c in picc.DefaultIfEmpty()
-                        join pi in _context.ProductImages on p.Id equals pi.ProductId into ppi
-                        from pi in ppi.DefaultIfEmpty()
+                        join c in _context.Categories on pic.CategoryId equals c.Id into cate
+                        from c in cate.DefaultIfEmpty()
+                        join pi in _context.ProductImages on p.Id equals pi.ProductId into pig
+                        from pi in pig.DefaultIfEmpty()
                         where pt.LanguageId == request.LanguageId && pi.IsDefault == true
                         select new { p, pt, pic, pi };
             //2. filter
@@ -487,6 +490,7 @@ namespace ChayBiShop94.Application.Catalog.Products
             return data;
         }
     }
+
     public interface IProductService
     {
         Task<int> Create(ProductCreateRequest request);

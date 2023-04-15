@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -48,20 +49,20 @@ namespace ChaybiShop94.Data.EF
             //base.OnModelCreating(modelBuilder);
         }
 
-        public DbSet<Product> Products { get; set; }
-        public DbSet<Category> Categories { get; set; }
-        public DbSet<AppConfig> AppConfigs { get; set; }
-        public DbSet<Cart> Carts { get; set; }
-        public DbSet<CategoryTranslation> CategoryTranslations { get; set; }
-        public DbSet<ProductInCategory> ProductInCategories { get; set; }
-        public DbSet<Contact> Contacts { get; set; }
-        public DbSet<Language> Languages { get; set; }
-        public DbSet<Order> Orders { get; set; }
-        public DbSet<OrderDetail> OrderDetails { get; set; }
-        public DbSet<ProductTranslation> ProductTranslations { get; set; }
-        public DbSet<Promotion> Promotions { get; set; }
-        public DbSet<Transaction> Transactions { get; set; }
-        public DbSet<ProductImage> ProductImages { get; set; }
-        public DbSet<Slide> Slides { get; set; }
+        public DbSet<Product> Products => Set<Product>();
+        public DbSet<Category> Categories => Set<Category>();
+        public DbSet<AppConfig> AppConfigs => Set<AppConfig>();
+        public DbSet<Cart> Carts  => Set<Cart>();
+        public DbSet<CategoryTranslation> CategoryTranslations => Set<CategoryTranslation>();
+        public DbSet<ProductInCategory> ProductInCategories => Set<ProductInCategory>();
+        public DbSet<Contact> Contacts => Set<Contact>();
+        public DbSet<Language> Languages => Set<Language>();
+        public DbSet<Order> Orders => Set<Order>();
+        public DbSet<OrderDetail> OrderDetails => Set<OrderDetail>();
+        public DbSet<ProductTranslation> ProductTranslations => Set<ProductTranslation>();
+        public DbSet<Promotion> Promotions => Set<Promotion>();
+        public DbSet<Transaction> Transactions => Set<Transaction>();
+        public DbSet<ProductImage> ProductImages => Set<ProductImage>();
+        public DbSet<Slide> Slides => Set<Slide>();
     }
 }
